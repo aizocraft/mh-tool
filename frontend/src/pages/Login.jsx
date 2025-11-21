@@ -271,7 +271,7 @@ const Login = () => {
             transition={{ delay: 0.5 }}
             className="text-center mt-8 text-xs text-gray-500 dark:text-gray-400"
           >
-            © 2025 AgriSurvey. All rights reserved.
+            © 2025 MkulimaHub. All rights reserved.
           </motion.p>
         </div>
       </div>
